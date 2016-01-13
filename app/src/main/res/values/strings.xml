@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">444</string>
+    <string name="title_text">Code Smash</string>
+    <string name="signed_out">Signed out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_in_fmt">Signed In</string>
+    <string name="loading">Loading</string>
+</resources>

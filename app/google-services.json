@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "team-444",
+    "project_number": "152152552846",
+    "name": "Team 444"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152152552846:android:f34fe9bf31840eee",
+        "client_id": "android:team4four4.fourfourfour",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "team4four4.fourfourfour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152152552846-e6sdhp1qptq062qsrfiemqbifg5npi0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team4four4.fourfourfour",
+            "certificate_hash": "1FD1D332F216AD919B64733EF2C5D8E86065B272"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
